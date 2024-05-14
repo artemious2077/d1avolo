@@ -7,7 +7,7 @@ I'm Frontend Developer.
 I have been engaged in frontend development since January 22, 2023. For this profession I have a profile confirmed by a certificate and an artistic and design taste, which makes itself known. What excites me the most is working on game projects (naturally in the field of web development, which is what frontend specializes in), projects in the Japanese genre and and other projects.
 
 * 🌍  I'm based in northeast Central Asia
-* ✉️  You can contact me at [malcevartem808@gmail.com](mailto:malcevartem808@gmail.com)
+* ✉️  You can contact me at [mailto:malcevartem808@gmail.com](https://t.me/HelluvaBoss_Pieces)
 * 🧠  I'm learning TypeScript, Zustand, HTTP, RestApi, GraphQL, WEBSOKETS, RTK, advanced authorization, FSD architecture
 * 🤝  I'm open to collaborating on any project with a non-standard design
 * ⚡  "An artist at heart, a gamer outside"
@@ -26,6 +26,3 @@ I have been engaged in frontend development since January 22, 2023. For this pro
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-Contacts:
-https://t.me/HelluvaBoss_Pieces
