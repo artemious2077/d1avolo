@@ -12,6 +12,7 @@ I have been engaged in frontend development since January 22, 2023. For this pro
 * 🧠  I'm learning TypeScript, Zustand, HTTP, RestApi, GraphQL, WEBSOKETS, RTK, advanced authorization, FSD architecture
 * 🤝  I'm open to collaborating on any project with a non-standard design
 * ⚡  "An artist at heart, a gamer outside"
+  
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▀▄▄▄
 ### Skills
 <p align="left">
