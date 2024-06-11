@@ -5,9 +5,9 @@ I'm Frontend Developer.
 I have been engaged in frontend development since January 22, 2023, at 17 years old. For this profession I have a profile confirmed by a certificate and an artistic and design taste, which makes itself known. What excites me the most is working on game projects (naturally in the field of web development, which is what frontend specializes in), projects in the Japanese genre and and other projects.
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 * 🌍  I'm based in northeast Central Asia
-* ✉️  You can contact me at [my telegramm](https://t.me/HelluvaBoss_Pieces)
+* ✉️  [my telegramm](https://t.me/HelluvaBoss_Pieces)
 * 🧠  I'm learning TypeScript, Zustand, HTTP, RestApi, GraphQL, WEBSOKETS, RTK, advanced authorization, FSD architecture
-* 🤝  I'm open to collaborating on any project with a non-standard design
+* 🤝  Open to collaborating on any project with a non-standard design
 * ⚡  "An artist at heart, a gamer outside"
   
 ### Skills
