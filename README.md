@@ -8,7 +8,9 @@ I have been engaged in frontend development since January 22, 2023, at 17 years 
 * ✉️  [my telegramm](https://t.me/HelluvaBoss_Pieces)
 * 🧠  I'm learning TypeScript, Zustand, HTTP, RestApi, GraphQL, WEBSOKETS, RTK, advanced authorization, FSD architecture
 * 🤝  Open to collaborating on any project with a non-standard design
-* ⚡  "An artist at heart, a gamer outside"
+
+* ⚡  What projects have you worked on?:
+1. Internet Business Platform (IBP)
   
 ### Skills
 <p align="left">
