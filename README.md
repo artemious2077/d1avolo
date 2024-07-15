@@ -1,5 +1,7 @@
 ![Game Icon](https://giffiles.alphacoders.com/157/15714.gif)
+
 -+*front dev*+-
+
 
 ### Skills
 <p align="left">
