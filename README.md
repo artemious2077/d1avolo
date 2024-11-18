@@ -1,4 +1,4 @@
-![Profile Icon]([https://media.gifdb.com/cyber-city-raining-pixel-art-di2s1n8qqnpmn6rb.gif](https://media.gifdb.com/cyber-city-raining-pixel-art-di2s1n8qqnpmn6rb.gif))
+([https://media.gifdb.com/cyber-city-raining-pixel-art-di2s1n8qqnpmn6rb.gif](https://media.gifdb.com/cyber-city-raining-pixel-art-di2s1n8qqnpmn6rb.gif))
 
 -+*front dev*+-
 
